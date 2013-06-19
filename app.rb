@@ -9,6 +9,5 @@ get '/edition/' do
 end
 
 get '/sample/' do
-  @fortune = FortuneGem.give_fortune({:max_length => 220})
-  erb :edition
+  erb :sample
 end
