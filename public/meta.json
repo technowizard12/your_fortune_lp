@@ -1,0 +1,11 @@
+{
+    "owner_email" : "sorr@willamette.edu",
+    "publication_api_version":"1.0",
+    "name": "Fortune",
+    "description": "Wisdom from the annals of Unix version 7.",
+    "delivered_on": "every day",
+    "send_timezone_info": false,
+    "send_delivery_count": false,
+    "external_configuration": false,
+
+}
