@@ -6,6 +6,6 @@
     "delivered_on": "every day",
     "send_timezone_info": false,
     "send_delivery_count": false,
-    "external_configuration": false,
+    "external_configuration": false
 
 }
