@@ -3,7 +3,7 @@ require 'fortune_gem'
 
 get '/edition/' do
   @fortune = FortuneGem.give_fortune
-  etag Digest::MD5.hexdigest(Time.now.utc.strftime('%l%p, %d %b %Y %Z'))  
+  etag Digest::MD5.hexdigest(Time.now.utc)  
 
   erb :edition
 end
