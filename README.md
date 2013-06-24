@@ -12,6 +12,26 @@ Things of Note
 *There is no server at the index. This is entirely a backend endeavor, for now. I'll fix that in the next update.
 *The estimated average cruising airspeed of an unladen European swallow is 25 miles per hour, according to WolframAlpha.
 
+Dependecies
+===============
+*sinatra
+  ```ruby
+  gem install 'sinatra'
+  ```
+  or, for bundler
+  ```ruby
+  gem 'sinatra'
+  ```
+*fortune_gem version 0.0.5
+```ruby
+  gem install 'fortune_gem' --version '0.0.5'
+  ```
+  or, for bundler
+  ```ruby
+  gem 'fortune_gem', '= 0.0.5'
+
+*a good sense of humor
+
 
 License
 ===============
