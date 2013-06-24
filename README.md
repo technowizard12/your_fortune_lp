@@ -38,7 +38,7 @@ License
 ===============
 This code is released under a modified version of the wtfpl v 2.0, the wtf(wabea)pl v 2.0
 
-<div align="center">
+
 DO WHAT THE FUCK YOU WANT TO (WITH A BIT EXTRA ADDED) PUBLIC LICENSE 
 
 Version 1.0, June 2013
@@ -50,5 +50,3 @@ Version 1.0, June 2013
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
   0. You just DO WHAT THE FUCK YOU WANT TO, so long as you include the original author's name, (Simon D. Orr), as attribution in your documentation or commenting.
-
-</div>
