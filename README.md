@@ -27,6 +27,7 @@ Dependecies
    gem install 'fortune_gem' --version '0.0.5'
    ```
    or, for bundler
+   
    ```ruby
    gem 'fortune_gem', '= 0.0.5'
    ```
