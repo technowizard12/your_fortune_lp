@@ -5,9 +5,9 @@ A program which, using the fortune_gem rubygem, generates fortunes to be printed
 
 She runs real good on heroku, by the way.
 
-*Check it out on [BERG Cloud Remote](http://remote.bergcloud.com/publications/169)*
+**Check it out on [BERG Cloud Remote](http://remote.bergcloud.com/publications/169)**
 
-*Version: 1.0.0*
+**Version: 1.0.0**
 
 To look at the generator, see [the heroku edition](http://yourfortune.herokuapp.com/edition/)
 
