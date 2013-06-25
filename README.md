@@ -13,7 +13,7 @@ Things of Note
 ===============
 
 * The only routes written are /edition/ and /sample/, because those were the only ones necessary. I'm sorry if you were attached. They're gone now.
-* There is no server at the index. This is entirely a backend endeavor, for now. I'll fix that in the next update.
+* There is no page at the index. This is entirely a backend endeavor, for now. I'll fix that in the next update.
 * The estimated average cruising airspeed of an unladen European swallow is 25 miles per hour, according to WolframAlpha.
 Dependecies
 ===============
