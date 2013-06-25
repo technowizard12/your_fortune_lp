@@ -3,7 +3,7 @@ Your Fortune
 
 A program which, using the fortune_gem rubygem, generates fortunes to be printed on a BERG Cloud [Little Printer](http://bergcloud.com/littleprinter/). It is possible for the same fortune to be generated multiple times, but not within the same minute. This code is based on [lp_publication_hello_world](https://github.com/bergcloud/lp_publication_hello_world), and it was awfully poor form of me not to fork it then modify it. Designed to run on heroku.
 
-To look at the generator, see [the heroku edition](http://yourfortune.herokuapp$)
+To look at the generator, see [the heroku edition](http://yourfortune.herokuapp/edition/)
 
 **Check it out on [BERG Cloud Remote](http://remote.bergcloud.com/publications/169)**
 
