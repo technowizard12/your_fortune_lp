@@ -7,6 +7,8 @@ She runs real good on heroku, by the way.
 
 Version: 1.0.0
 
+To look at the generator, see [the heroku edition](http://yourfortune.herokuapp.com/edition/)
+
 Things of Note
 ===============
 
