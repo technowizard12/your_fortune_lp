@@ -5,6 +5,8 @@ A program which, using the fortune_gem rubygem, generates fortunes to be printed
 
 She runs real good on heroku, by the way.
 
+Version: 1.0.0
+
 Things of Note
 ===============
 
